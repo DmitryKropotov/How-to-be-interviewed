@@ -3,7 +3,7 @@ package task_to_10_07_2018;
 import java.util.Arrays;
 import java.util.List;
 
-public class Sorting {
+public class InsertionSort {
 
     public static void main(String[] args) {
        String[] strings = {"Russia", "Croatia", "Brazil", "England", "Ronaldo", "Arshavin"};
